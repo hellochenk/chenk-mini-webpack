@@ -1,0 +1,12 @@
+{
+  "name": "mini-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/parser": "^7.19.4",
+    "@babel/traverse": "^7.19.4",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
